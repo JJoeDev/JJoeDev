@@ -9,5 +9,3 @@ My current favorite programming language is C++, im quite sure its just Stockhol
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=JJoeDev&show_icons=true&theme=merko" />
 
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJoeDev&layout=compact" />
-
-![](https://visitor-badge.laobi.icu/badge?page_id=JJoeDev.JJoeDev)
