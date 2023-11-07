@@ -10,4 +10,4 @@ My current favorite programming language is C++, im quite sure its just Stockhol
 
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJoeDev&layout=compact" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jjoedev&theme=shadow-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jjoedev&theme=shadow-purple&hide_border=true&card_width=450)](https://git.io/streak-stats)
