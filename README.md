@@ -10,7 +10,7 @@ I started learning to code from one of my friends about 5 years ago. Then I foun
 
 * 🌍  I'm based in Denmark
 * 🖥️  See my portfolio at [My outdated website](http://jjoedev.github.io/)
-* 🚀  I'm currently thinking of starting work on yet another simple game engine
+* 🚀  I'm currently working on a [game framework](https://github.com/tw-engine/twengine) with some friends
 * 🧠  I'm learning game engine development
 * 🤝  I'm open to collaborating on anything I feel could be fun or interesting
 
