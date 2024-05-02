@@ -4,14 +4,14 @@ Self taught amature programmer
 
 ---
 
-I started learning to code from one of my friends about 5 years ago. Then I found passion in trying to make mods for Unity games, and after a while I wanted to make games myself. But game development wasn't quite for me, at least not in a game engine. So I started learning C++ so I could make cool stuff with that. Now I like making small games in Raylib, SDL2, and SFML, along with other stuff.
+For more info please take a look at my static web site
 
 ---
 
 * 🌍  I'm based in Denmark
-* 🖥️  See my portfolio at [My outdated website](http://jjoedev.github.io/)
-* 🚀  I'm currently working on a [game framework](https://github.com/tw-engine/twengine) with some friends
-* 🧠  I'm learning game engine development
+* 🖥️  See my portfolio at [My updated website](http://jjoedev.github.io/)
+* 🚀  I'm currently working on a couple of projects, like a game framework and some other stuff :D
+* 🧠  I'm learning game engine development, and more
 * 🤝  I'm open to collaborating on anything I feel could be fun or interesting
 
 <a href="https://www.github.com/JJoeDev" target="_blank" rel="noreferrer"><img
