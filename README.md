@@ -2,8 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Self taught amature programmer
 
-I am moving from GitHub to [Codeberg](https://codeberg.org/JJoeDev)
-
 ---
 
 For more info please take a look at my static web site
