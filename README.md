@@ -4,7 +4,7 @@ Self taught amature programmer
 
 ---
 
-For more info please take a look at my static web site
+## Hello, I have moved away from GitHub to Codeberg. This is where all future projects will be. [My Codeberg Profile](https://codeberg.org/JJoeDev)
 
 ---
 
